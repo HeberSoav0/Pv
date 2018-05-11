@@ -69,7 +69,7 @@
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(209, 26);
             this.txtUsuario.TabIndex = 6;
-            this.txtUsuario.Text = "Nombre de Usuario";
+            this.txtUsuario.Text = "Usuario";
             this.txtUsuario.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // panel2
